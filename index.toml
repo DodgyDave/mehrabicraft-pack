@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "275a1ecb11bde12b8c4c713b533230c75bc47bcffc590c5299287263d828c9b3"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "274090917862e7eb9a2f9f3a22daef83045d2d84d17c1ea2045d9940636c3024"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "ef0b071d59d797c1760676011b9729097122995003d4986ae4e10b6d7a55c06a"
+metafile = true
+
+[[files]]
+file = "mods/sgtveinminer.pw.toml"
+hash = "d110af39a6025f775ce5c4fdcce417f3480979f675e1985c226fb4a435dc36ca"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1c5dc7f8182d89f42d719c5f05cc50f4fd47e408e587b7a263442cbfec823d50"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "aa4feea88ef3f783c5c3481b80d1f8a2ff3c4155dba7f4dc0f9755fc12d1f732"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "41c241cb87700a07261fe125697da8573838bca3757269c0752feb5796cf4182"
+metafile = true
